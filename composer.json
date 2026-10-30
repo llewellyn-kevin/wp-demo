@@ -1,0 +1,8 @@
+{
+    "require": {
+        "wp-cli/wp-cli-bundle": "^2.12"
+    },
+    "scripts": {
+        "wp": "./vendor/wp-cli/wp-cli/bin/wp"
+    }
+}
